@@ -1,0 +1,6 @@
+{
+  "name": "CineGen Studio",
+  "description": "AI video and image studio with customizable templates, artistic styles, real MP4 export, and AdMob monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
